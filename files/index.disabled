@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>
+            konozettoda - files
+        </title>
+        <link href="..\favicon.ico" rel="icon" type="image/x-icon">
+            <meta content="text/html; charset=utf-8" http-equiv="content-type">
+            </meta>
+            <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+                <style>
+                    body {
+    	font-family: 'Roboto';font-size: 30px;
+    	background-color: #FFFFFF;
+    	font-variant: small-caps;
+		}
+                </style>
+            </link>
+        </link>
+    </head>
+    <body>
+        <center>
+            <p>
+            <a href="https://dl.discordapp.net/apps/win/0.0.306/DiscordSetup.exe">Discord</a>
+            <span>|</span>
+            <a href="https://download.scdn.co/SpotifySetup.exe">Spotify</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/Minecraft.jar">Minecraft</a>
+            <span>|</span>
+            <a href="http://rm-us.palemoon.org/release/palemoon-28.9.1.win64.installer.exe">Palemoon</a>
+            <span>|</span>
+			<a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/7-Zip.exe">7-Zip</a>
+            </p>
+            <p>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/CairoDesktop.zip">Cairo Desktop</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/CheatEngine7.0.zip">Cheat Engine</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/Explorer++.zip">Explorer++</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/WinXShell_x64.zip">WinXShell</a>
+            </p>
+            <p>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/FreeCommander.exe">FreeCommander</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/PeaZip.exe">PeaZip</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/WynnPack.zip">WynnPack</a>
+            <span>|</span>
+            <a href="https://github.com/konozettoda/konozettoda.github.io/raw/master/files/forge-1.12.2-14.23.5.2847-installer.jar">Forge 1.12.2</a>
+        </p>
+        </center>
+    </body>
+</html>
